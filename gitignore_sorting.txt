@@ -1,0 +1,19 @@
+# Compilados Java
+*.class
+
+# Binários C compilados
+Tp2/pokedex2
+Tp2/sequenciabinaria
+Tp2/main
+*.dSYM/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs gerados
+*.log
